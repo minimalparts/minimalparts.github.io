@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### What is the Postdoc?
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+'The Postdoc' is a site that publishes typical postdoc experiences, in short format (because postdocs don't actually have time to write about their experiences).
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+No, please don't...
+
+[//]: # [email@domain.com](mailto:email@domain.com)
