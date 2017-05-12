@@ -3,7 +3,7 @@ layout: post
 title: Meditation
 ---
 
-The postdoc's colleagues have all started meditating, in response to the unbearable stess of science. So she's trying it too. The group's guru is a guy called Peter (Buddhist chosen name Bhismasvaraja), who posts meditation practices on Vimeo and has a soothing way to tell you that you're not doing anything wrong. 
+The postdoc's colleagues have all started meditating, in response to the unbearable stress of science. So she's trying it too. The group's guru is a guy called Peter (chosen name Bhismasvaraja), who posts meditation practices on Vimeo and has a soothing way to tell you that you're not doing anything wrong. 
 
 The problem is, Pete's intonations occasionally remind her of a colleague who works on Word Sense Disambiguation. And, no offense meant to anybody, the postdoc is not a fan of WSD. She doesn't believe in word senses.
 
