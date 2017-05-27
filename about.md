@@ -12,9 +12,7 @@ permalink: /about/
 
 ### What is a postdoc?
 
-A postdoc is someone who has a doctor title\* that no one uses, not even the insurance company. The term 'postdoc' (prefix *post* and root *doc*) indicates that the person has passed a milestone (the *doc* bit) but cannot yet be called anything else that would be remotely meaningful. In effect, he or she is in limbo, waiting to be a referentiable entity again. The waiting typically lasts many years, in which a large proportion of postdocs turn irremediably mad.
-
-\* Note that a doctor title does not necessarily imply that the postdoc knows anything about broken knees. 
+A postdoc is someone who has a doctor title that no one uses, not even the insurance company. The term 'postdoc' (prefix *post* and root *doc*) indicates that the person has passed a milestone (the *doc* bit) but cannot yet be called anything else that would be remotely meaningful. In effect, he or she is in limbo, waiting to be a referentiable entity again. The waiting typically lasts many years, in which a large proportion of postdocs turn irremediably mad.
 
 
 
