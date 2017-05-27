@@ -17,4 +17,4 @@ She can't fail to remember that posh girl at secondary school -- Erika van Wickt
 
 She resolutely types in 'no discomfort expected', for the sake of science. 
 
-She hardly sleeps that night, punctually dreaming of the van Wicktrachs suing the university and waking up in a sweat.
+She has a dreadful night, punctuated with dreams of the van Wicktrachs suing the university for emotional damage.
