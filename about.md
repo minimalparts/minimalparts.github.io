@@ -21,6 +21,10 @@ A postdoc is someone who has a doctor title that no one uses, not even the insur
 Yes, they are all 100% true. If you are interested in the various possible meanings of *true*, I recommend starting with the [Stanford Encyclopedia of Philosophy entry](https://plato.stanford.edu/entries/truth/) for an overview of the issue. Be warned that I myself do not entirely abide by the Tarskian notion of correspondence.
 
 
+### It's a nice format, those tiny stories...
+
+Yes, I stole it from the fabulous [http://www.tinystori.es/](http://www.tinystori.es/).
+
 ### Contact me
 
 No, please don't...
