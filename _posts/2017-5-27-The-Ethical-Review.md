@@ -11,7 +11,7 @@ She looks again at her experimental procedure and associated data. The first que
 
 QUESTION 1. Using your knowledge of the world, please tag this sentence as True or False: 
 
-*All horses are white.*
+*Not all horses are white.*
 
 She can't fail to remember that posh girl at secondary school -- Erika van Wicktrach or something -- who was so upset the Christmas she got a horse, and the horse was brown but she'd wanted a white one, like in the fairy tales.
 
