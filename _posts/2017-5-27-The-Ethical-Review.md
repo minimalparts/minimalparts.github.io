@@ -15,4 +15,4 @@ She can't fail to remember that posh girl at secondary school -- Erika van Wickt
 
 She resolutely types in 'no expected discomfort', for the love of science. 
 
-In her dreams that night, the van Wicktrachs are suing the university for emotional damage. And it's her fault, her fault, her fault...
+In her dreams that night, the van Wicktrachs are suing the university for emotional damage. And it's entirely, completely, utterly her fault.
