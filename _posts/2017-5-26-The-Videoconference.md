@@ -7,4 +7,4 @@ The postdoc says 'hi' and waives at her colleague across the screen. They both l
 
 The postdoc clears her throat and subreptitiously removes a sock from the back of her chair, which she realises might be visible for her interlocutor. 'How's the experiment?' she asks, knowing perfectly well that neither of them has ticked one single item on their to-do list.
 
-They smile benevolently at each other, glad they made it to the call, punctual as a world meeting planner, confident in their utmost professionality.
+They smile benevolently at each other, glad they made it to the call, punctual as a world meeting planner, confident in their utmost professionalism.
