@@ -3,7 +3,7 @@ layout: post
 title: Corporate life
 ---
 
-The postdoc feels like a corporation -- not a successful one, obviously; one of those that look good on paper but are on the brink of bankruptcy.
+The postdoc feels like a corporation -- not a successful one, obviously; rather one of those companies that look good on paper but are on the brink of bankruptcy.
 
 Since 2011. Offices in Cambridge, Berlin, Bolzano, Barcelona and Trifouillis-les-Oies.
 
