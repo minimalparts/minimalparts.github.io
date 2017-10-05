@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Biking Scheme
+title: The biking scheme
 ---
 
 The postdoc has made an important discovery. There is a deterministic relationship between her morning experience with the shared bike scheme and the overall success of her day. The following translation rules are of particular relevance.

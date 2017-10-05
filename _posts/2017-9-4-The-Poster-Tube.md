@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Poster Tube
+title: The poster tube
 ---
 
 The postdoc's poster tube could be in any of four places:
@@ -10,6 +10,6 @@ The postdoc's poster tube could be in any of four places:
 * Germany: it's just at 'home'. Then, probably in the dark corner between the wardrobe and the wall, next to the washing basket.
 * The world: she forgot it on the plane when she moved to Barcelona, and that plane is now on a long haul to Ulaanbaatar.
 
-She would very much like to find it again, because she believes she packed some newish socks in it (important), and also that precious piece of jewlery from her grandmother (less important).
+She would very much like to find it again, because she believes she packed some new-ish socks in it (important), and also that precious piece of jewlery from her grandmother (less important).
 
 In the end, well after the conference, her colleague Emilia calls her to say that the poster tube is at hers, under the Playmobil table. And she (the postdoc) would really not have needed to borrow her (Emilia's) tube.
