@@ -6,7 +6,7 @@ header:
     image: img/logos/redmoonlogo.png
 
 app:
-    title: "The toppix app"
+    title: "The app"
     text: "Book recommendations, a brand new way"
     section: app
     list:
