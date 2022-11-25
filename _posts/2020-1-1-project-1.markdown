@@ -1,0 +1,15 @@
+---
+title: Build a character, and find it in a movie
+subtitle: 
+layout: default
+modal-id: 1
+date: 2020-10-7
+img: character-screen.png
+thumbnail: character-screen-thumbnail.png
+alt: image-alt
+project-date: 2020
+client: 
+category: 
+description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+
+---

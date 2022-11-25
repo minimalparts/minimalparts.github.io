@@ -1,0 +1,15 @@
+---
+title: Find movies in space-time
+subtitle: 
+layout: default
+modal-id: 3
+date: 2022-1-1
+img: space-time.png
+thumbnail: space-time-thumbnail.png
+alt: image-alt
+project-date: 2020
+client: Start Bootstrap
+category: Web Development
+description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+
+---

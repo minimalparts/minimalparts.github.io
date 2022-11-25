@@ -1,0 +1,113 @@
+header:
+    title: toppix
+    text: Finding the stories that move you
+    button: Discover
+    buttonlink: "#app"
+    image: img/logos/redmoonlogo.png
+
+app:
+    title: "The toppix app"
+    text: "Book recommendations, a brand new way"
+    section: app
+    list:
+      - title: "You"
+        desc: "You are a unique individual, not someone 'like' anybody else. We let you be the sole explorer of the books that move you."
+        icon: img/app/you.jpg
+      - title: "Stories"
+        desc: "We unpack thousands of stories, characters and universes, so that you can find the people, places and times that you need."
+        icon: img/app/book.jpg       
+      - title: "Moods"
+        desc: "You probably need different books depending on the mood you are in. We can find the right match for every moment of your life."
+        icon: img/app/emojis.jpg
+
+tour:
+    title: "Quick tour"
+    text: "App features"
+    section: tour
+    closebutton: "Close"
+    
+
+philosophy:
+    title: "Philosophy" 
+    text: "What we believe in"
+    section: philosophy
+    # left is the default
+    #start_align: "left"
+    events:
+      - title: "Privacy"
+        desc: "We don't need your data to help you. The app works without profiles, passwords, cloud accounts, or anything else that tracks you."
+        image: assets/img/timeline/1.jpg
+        alt: 
+      - title: "In-depth knowledge"
+        desc: "Like any good book critic, Toppix goes at the core of books, analysing their style and remembering scenes and characters in the utmost detail."
+        image: assets/img/timeline/2.jpg
+        alt: 
+      - title: "The latest technology"
+        desc: "Toppix uses state-of-the-art machine learning algorithms to learn about books."
+        image: assets/img/timeline/3.jpg
+        alt: image alt text
+        # you can enforce the aligment
+        align: right
+    end: "Be Part <br> of the <br> Story!"
+
+about:
+    title: "About Us"
+    text: "our story"
+    section: about
+
+available:
+    section: clients
+    max-height: 100px
+    horizontal-scrolling: "" #"yes/no"
+    list:
+      - title: "android"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/envato.jpg
+      - title: "ios"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/designmodo.jpg
+    
+team:
+    title: "The team behind toppix"
+    text: "Believing in other worlds..."
+    subtext: Our team brings together years of expertise in Artificial Intelligence and Social Sciences. 
+    section: team
+    people:
+      - name: "Aurelie Herbelot"
+        role: "Lead Developer"
+        image: img/team/aurelie.png
+        social:
+          - url: https://twitter.com/ah__cl
+            icon: fab fa-twitter
+        bio: "Aurelie is assistant professor in computational linguistics. She holds a PhD in computer science from the University of Cambridge."
+      - name: "Nina Rismal"
+        role: "Lead Designer"
+        image: img/team/nina.png
+        social:
+          - url: https://twitter.com/nina_ris90
+            icon: fab fa-twitter
+          - url: https://facebook.com/nina.rismal
+            icon: fab fa-facebook-f
+        bio: "Nina is an economist and political scientist. She has studied at Oxford and Cambridge, where she wrote a doctoral dissertation in defense of utopia."
+          
+contact:
+    title: "Contact Us"
+    text: "Lorem ipsum or call 123456789"
+    section: contact
+    
+footer:
+    legal: "Privacy Policy"
+    social:
+      - url: https://twitter.com
+        icon: "fab fa-twitter"  
+      - url: https://facebook.com
+        icon: "fab fa-facebook-f"
+      - url: https://linkedin.com
+        icon: "fab fa-linkedin-in"
+      - url: https://github.com/raviriley/agency-jekyll-theme
+        icon: "fab fa-github"
+      - url: https://instagram.com
+        icon: "fab fa-instagram"
+
+
+# {{ site.data.sitetext.ex.ex | markdownify | default: example }}
